@@ -12,14 +12,13 @@ I learned how to identify and use proper HTML tags and CSS properties to create 
 This project can be installed or accessed by using the following link.
 https://becca6758.github.io/code-refractor/
 
-## Usage
+## Images
 
 
-    ```md
     ![screenshot 1](images/screenshot1.png)
-    ```md
+    
     ![screenshot 2](images/screenshot2.png)
-    ```md
+    
     ![screenshot 3](images/screenshot3.png)
 
 ## Credits
