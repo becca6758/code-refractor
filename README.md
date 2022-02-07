@@ -15,11 +15,11 @@ https://becca6758.github.io/code-refractor/
 ## Images
 
 
-    ![screenshot 1](./images/screenshot1.png)
+    ![screenshot1](./images/screenshot1.png)
     
-    ![screenshot 2](./images/screenshot2.png)
+    ![screenshot2](./images/screenshot2.png)
     
-    ![screenshot 3](./images/screenshot3.png)
+    ![screenshot3](./images/screenshot3.png)
 
 ## Credits
 
